@@ -1,2 +1,2 @@
 # EFSample
-Llamar a procedimientos almacenados con Entity Framework en .NET 5
+Call stored procedures with Entity Framework in .NET 5
